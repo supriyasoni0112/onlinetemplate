@@ -1,0 +1,45 @@
+*{box-sizing: border-box;}
+
+body{ border-left: solid black 100px;border-right: solid black 100px; margin-top:0px;margin-bottom: 0px;}
+
+.content{ background-size:cover; width:80%; margin:auto;
+    font-family:'Oxanium', cursive;; color:white;}
+
+.flex1{display: flex; flex-wrap: wrap; justify-content: space-between; padding-top: 1%;font-weight: bold;}
+
+.flex2{display: flex; flex-wrap: wrap; justify-content:space-between;margin-top:70px;}
+
+.form{background: white;text-align: center;color:rgba(0, 0, 0, 0.818); height:400px; width:350px;border-bottom: solid 10px rgb(0, 170, 255);font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.input{padding:10px; width: 80%; margin-top: 10px;font-size: medium;}
+span{border:solid white 2px;padding:5px}
+
+.flex3{ display: flex; height:90px; justify-content:space-around;width:80%; margin:auto;}
+.flex4{display: flex; justify-content: space-evenly;}
+.flex5{display: flex;justify-content: space-evenly;margin-top:50px; margin-bottom:80px}
+.parea{border:dashed 2px cornflowerblue; padding:4px;margin: auto; width:90% }
+.imgcontent{color:rgb(152, 150, 150)}
+.imghead{color:rgba(0, 0, 0, 0.818)}
+ 
+.para{width:70%; margin:auto; text-align: center;}
+.amazing{margin-top:0%; margin-bottom:5px; color:rgba(0, 0, 0, 0.797)}
+
+.flex6{display: flex; justify-content: space-between;}
+.aboutus{width:100%; border:dashed cornflowerblue 2px;padding: 5px; width:450px}
+.iframe{border:solid black 5px; border-left:solid black 25px;border-right:solid black 25px;}
+
+.lawyers{width:80%; border:dashed 2px cornflowerblue; padding:10px}
+.icons {color:cornflowerblue; font-size: 1.5rem;margin-top:5px; margin-bottom: 5px;}
+
+.gradient{font-size:3rem; font-weight: bold;margin-top: 20px;margin-bottom: 0px;}
+
+.ourclient{height:80px; width:80px; background: lightgray; color:gray; font-size: small; padding-top: 30px;box-sizing: border-box;margin: auto;}
+
+.package{width:30%; height:auto; background: white; color:rgb(152, 150, 150); padding:5px; font-size: small;}
+.corpackage{Width:30%; height:auto; background-image: linear-gradient(to right, purple, blue); padding:5px; font-size: small;border: solid white 5px;box-shadow: 10px 10px 8px 8px darkgray;}
+.hr{color:gainsboro; width:90%}
+.button{width:90%; height:50px; background:rgb(63, 63, 63); color:white; font-size: large; margin-top:20px; margin-bottom:40px; border:none}
+.corbutton{width:90%; height:50px; background:white; color:rgb(63, 63, 63); font-size: large; margin-top:20px; margin-bottom:40px; border:none}
+
+.free{display: flex; border: solid 2px rgb(197, 193, 193); background: white; padding: 10px; height:80px; width: 300px;}
+.map{width:100%}
