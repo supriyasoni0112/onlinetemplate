@@ -65,13 +65,15 @@ button{background:rgb(0, 170, 255); color:white; font-weight: bolder; border:non
 #clientcon{color:darkgray; margin-top:0px; font-weight: bold;  padding-bottom:20px;text-align: center;}
 .dashline{display:flex; margin: auto; width: 20%; justify-content: space-around;margin-top:50px; flex-wrap: wrap; padding-bottom: 50px;}
 /*section10*/
+hr{color:gainsboro; width:90%}
+.flex13 div p{color:rgb(110, 122, 252); font-size:2.5rem; font-weight:bold;margin-bottom:4px; margin-top: 10px;}
 .flex13{display:flex; flex-wrap: wrap; text-align: center; padding-bottom: 50px;}
 .basic{ height:auto; background: white; color:rgb(152, 150, 150); padding:5px; font-size: small; width:300px}
 .flex13 i{font-size:3rem}
 .flex13 h3{font-size:2rem; font-weight:bold; color:rgb(63, 63, 63); margin-bottom: 10px;}
 .button{width:90%; height:50px; background:rgb(63, 63, 63); color:white; font-size: large; margin-top:20px; margin-bottom:40px; border:none}
 .click{width:90%; height:50px; background:white; color:rgb(63, 63, 63); font-size: large; margin-top:20px; margin-bottom:40px; border:none}
-.corporate{height:auto; width:300px; background-image: linear-gradient(to right, purple, blue); padding:15px; font-size: small;border: solid white 5px;box-shadow: 10px 10px 8px 8px darkgray;}
+.corporate{height:auto;color:white; width:300px; background-image: linear-gradient(to right, purple, blue); padding:15px; font-size: small;border: solid white 5px;box-shadow: 10px 10px 8px 8px darkgray;}
 /*section11*/
 .flex14, .flex15{display: flex; flex-wrap: wrap; padding-bottom: 70px;}
 .flex15 i{font-size: 2rem; color:cornflowerblue}
